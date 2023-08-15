@@ -1,1 +1,1 @@
-<video width="630" height="300" src="[[ ](https://raw.githubusercontent.com/Benitoite/dice/main/d6.mp4)]([https://github.com/Benitoite/dice/raw/main/d6.mp](https://raw.githubusercontent.com/Benitoite/dice/main/d6.mp4)"></video>
+<video width="630" height="300" src="https://raw.githubusercontent.com/Benitoite/dice/main/d6.mp4"></video>
