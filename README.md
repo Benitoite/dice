@@ -1,1 +1,1 @@
-[![Watch the video](d6.jpg)](d6.mp4)
+<video src='d6.mp4' width=180/>
