@@ -1,1 +1,1 @@
-<video src='/d6.mp4' width=180/>
+![](/files/d6)
