@@ -1,3 +1,10 @@
+10,000 a.k.a. Greedy dice game https://dice.r42.us/10k
+![image](https://github.com/Benitoite/dice/assets/17919239/dcfa0c93-4557-4f24-90ce-175a42be981e)
+
+https://github.com/Benitoite/dice/assets/17919239/8d78a62f-b93d-4e52-adbe-9e47f8187679
+
+
+
 # Six sided dice rolling game https://dice.r42.us/d6
 ![image](https://github.com/Benitoite/dice/assets/17919239/0b7e1d95-162e-4492-a016-b91b79eaa93d)
 
