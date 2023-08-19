@@ -1,4 +1,4 @@
-10,000 a.k.a. Greedy dice game https://dice.r42.us/10k
+# 10,000 a.k.a. Greedy dice game https://dice.r42.us/10k
 ![image](https://github.com/Benitoite/dice/assets/17919239/dcfa0c93-4557-4f24-90ce-175a42be981e)
 
 https://github.com/Benitoite/dice/assets/17919239/8d78a62f-b93d-4e52-adbe-9e47f8187679
